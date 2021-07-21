@@ -1,0 +1,9 @@
+C:\Repositories\LearningCsharp\UnitTesting.ShoppingCart\bin\Debug\netcoreapp3.1\UnitTesting.ShoppingCartApp.deps.json
+C:\Repositories\LearningCsharp\UnitTesting.ShoppingCart\bin\Debug\netcoreapp3.1\UnitTesting.ShoppingCartApp.dll
+C:\Repositories\LearningCsharp\UnitTesting.ShoppingCart\bin\Debug\netcoreapp3.1\UnitTesting.ShoppingCartApp.pdb
+C:\Repositories\LearningCsharp\UnitTesting.ShoppingCart\obj\Debug\netcoreapp3.1\UnitTesting.ShoppingCartApp.AssemblyInfoInputs.cache
+C:\Repositories\LearningCsharp\UnitTesting.ShoppingCart\obj\Debug\netcoreapp3.1\UnitTesting.ShoppingCartApp.AssemblyInfo.cs
+C:\Repositories\LearningCsharp\UnitTesting.ShoppingCart\obj\Debug\netcoreapp3.1\UnitTesting.ShoppingCartApp.csproj.CoreCompileInputs.cache
+C:\Repositories\LearningCsharp\UnitTesting.ShoppingCart\obj\Debug\netcoreapp3.1\UnitTesting.ShoppingCartApp.dll
+C:\Repositories\LearningCsharp\UnitTesting.ShoppingCart\obj\Debug\netcoreapp3.1\UnitTesting.ShoppingCartApp.pdb
+C:\Repositories\LearningCsharp\UnitTesting.ShoppingCart\obj\Debug\netcoreapp3.1\UnitTesting.ShoppingCartApp.csproj.AssemblyReference.cache

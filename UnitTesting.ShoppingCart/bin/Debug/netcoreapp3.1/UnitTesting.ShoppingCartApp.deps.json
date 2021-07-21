@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "UnitTesting.ShoppingCartApp/1.0.0": {
+        "runtime": {
+          "UnitTesting.ShoppingCartApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UnitTesting.ShoppingCartApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
